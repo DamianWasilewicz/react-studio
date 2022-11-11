@@ -1,9 +1,15 @@
 /* Add styling for your page here */
 
 .App {
-
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.Items {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .BakeryItem {
-  
+
 }
